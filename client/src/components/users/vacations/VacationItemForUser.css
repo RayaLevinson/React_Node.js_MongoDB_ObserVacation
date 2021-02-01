@@ -1,0 +1,9 @@
+.following-number {
+  background: #BDFCC9;
+  border-radius: 50%;
+  height: 2rem;
+  width: 2rem;
+  font-size: 0.7rem;
+  line-height: 2rem;
+  text-align: center;
+}
